@@ -31,5 +31,5 @@ python3 sync.py
 
 ## Future Improvements
 
-[] Turn this into a package with an entry_point for use anywhere.
-[] Better Error-trapping for missing environment variables
+- [ ] Turn this into a package with an entry_point for use anywhere.
+- [ ] Better Error-trapping for missing environment variables
