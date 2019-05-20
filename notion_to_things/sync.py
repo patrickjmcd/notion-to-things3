@@ -3,8 +3,8 @@ import webbrowser
 import urllib.parse
 from dotenv import load_dotenv
 
-from tasks_from_notion import get_notion_tasks
-from tasks_from_things import get_things_tasks
+from .tasks_from_notion import get_notion_tasks
+from .tasks_from_things import get_things_tasks
 
 load_dotenv()
 

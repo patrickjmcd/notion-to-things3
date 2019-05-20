@@ -1,6 +1,6 @@
 import sqlite3
 import os
-from task import Task
+from .task import Task
 
 from dotenv import load_dotenv
 

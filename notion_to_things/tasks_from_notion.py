@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from notion.client import NotionClient
-from task import Task
+from .task import Task
 
 load_dotenv()
 
