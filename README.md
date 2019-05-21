@@ -1,6 +1,6 @@
 # Notion to Things3 Integration
 
-A (currently) one-directional syncing tool to copy and update tasks from Notion to Things3.
+A bi-directional syncing tool to copy and update tasks from Notion to Things3.
 
 ## Requirements
 
@@ -52,4 +52,5 @@ notion-things3
 ## Future Improvements
 
 -   [x] Turn this into a package with an entry_point for use anywhere.
+-   [x] Enable bi-directional syncing
 -   [ ] Better Error-trapping for missing environment variables
