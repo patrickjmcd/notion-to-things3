@@ -1,1 +1,1 @@
-from .sync import main
+pass
